@@ -1,0 +1,7 @@
+zulu
+alpha
+bravo
+echo
+delta
+gama
+omini
